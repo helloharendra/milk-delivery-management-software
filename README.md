@@ -31,6 +31,22 @@ Let's discuss your project.
 
 ---
 
+<!-- screenshots -->
+## Screenshots
+
+**Dashboard**
+
+![Dashboard](screenshots/1-dashboard.png)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Subscriptions</b><br><br><img src="screenshots/2-subscriptions.png" alt="Subscriptions"></td>
+    <td align="center" width="50%"><b>Routes</b><br><br><img src="screenshots/3-routes.png" alt="Routes"></td>
+  </tr>
+</table>
+
+---
+
 ## What Is Milk Delivery Management Software?
 
 Milk Delivery Management Software is a digital business management system designed to organize recurring milk orders, customer subscriptions, delivery operations, and payment records.
@@ -563,17 +579,3 @@ Milk Delivery Management Software | Milk Subscription & Billing System
 **My recommendation:** Add a sample monthly milk subscription statement to the landing page showing customer name, daily quantity, skipped deliveries, additional orders, total delivered litres, rate, and final payable amount. This will help potential dairy clients understand the practical value of the software immediately.
 
 Send me your next repository link.
-
-<!-- screenshots -->
-## Screenshots
-
-**Dashboard**
-
-![Dashboard](screenshots/1-dashboard.png)
-
-<table>
-  <tr>
-    <td align="center" width="50%"><b>Subscriptions</b><br><br><img src="screenshots/2-subscriptions.png" alt="Subscriptions"></td>
-    <td align="center" width="50%"><b>Routes</b><br><br><img src="screenshots/3-routes.png" alt="Routes"></td>
-  </tr>
-</table>
